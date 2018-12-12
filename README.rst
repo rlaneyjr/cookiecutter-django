@@ -36,10 +36,10 @@ production-ready Django projects quickly.
 Features
 ---------
 
-* For Django 2.0
-* Works with Python 3.6
+* For Django 2.1.4
+* Works with Python 3.7
 * Renders Django projects with 100% starting test coverage
-* Twitter Bootstrap_ v4.1.1 (`maintained Foundation fork`_ also available)
+* Twitter Bootstrap_ v4.1.3 (`maintained Foundation fork`_ also available)
 * 12-Factor_ based settings via django-environ_
 * Secure by default. We believe in SSL.
 * Optimized development and production settings
