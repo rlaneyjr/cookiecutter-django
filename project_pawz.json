@@ -1,0 +1,36 @@
+{
+  "project_name": "Project Pawz",
+  "project_slug": "project_pawz",
+  "description": "Project Pawz - Rescue. Love. Repeat.",
+  "author_name": "Ricky Laney",
+  "domain_name": "projectpawzrescue.org",
+  "email": "projectpawzrescue@gmail.com",
+  "version": "0.0.1",
+  "open_source_license": [
+    "MIT"
+  ],
+  "timezone": "America/New_York",
+  "windows": "n",
+  "use_pycharm": "y",
+  "use_docker": "y",
+  "postgresql_version": [
+    "11.2"
+  ],
+  "js_task_runner": [
+    "Gulp"
+  ],
+  "cloud_provider": [
+    "AWS"
+  ],
+  "custom_bootstrap_compilation": "n",
+  "use_compressor": "y",
+  "use_celery": "y",
+  "use_mailhog": "n",
+  "use_sentry": "n",
+  "use_whitenoise": "y",
+  "use_heroku": "n",
+  "use_travisci": "n",
+  "keep_local_envs_in_vcs": "y",
+
+  "debug": "n"
+}
